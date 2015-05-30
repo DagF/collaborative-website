@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#document{
+    border:1px solid black;
+    width:500px;
+    min-height:300px;
+    margin:10px auto;
+}
+
+span{
+    background-color: red;
+}
